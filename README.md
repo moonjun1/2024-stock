@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4134938c-f529-40c7-ab81-0dddd497bb74)
 
 # 주식 데이터 관리 애플리케이션
 
@@ -25,4 +24,5 @@
 - 실시간 주식 데이터: Finnhub API
 
 ## 스크린샷
-[스크린샷 예정]
+![image](https://github.com/user-attachments/assets/4134938c-f529-40c7-ab81-0dddd497bb74)
+
